@@ -1,0 +1,208 @@
+2600 0 2 0           
+21 Abaqus/CAE 2020 - 260 12 ACIS 29.0 NT 24 Sun Sep 15 18:26:35 2024 
+1 9.9999999999999995e-07 1e-10 
+T @77 G5WJZDW8NYJDBCSJYMZ5H9DZN89CQG77DD6VQJ597DC4K6P3FCCCRV6FQ8ACGA6FUBTUKCNDBBV4K 
+-0 body $2 -1 -1 $-1 $3 $-1 $-1 T -162.50000000000003 0 -37.5 162.5 10 37.5 #
+-1 collection $4 -1 0 0 0 0 0 0 0 1 1 0 1 1 #
+-2 string_attrib-name_attrib-gen-attrib $-1 -1 $10 $-1 $0 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @2 63 #
+-3 lump $11 -1 -1 $-1 $-1 $12 $0 T -162.50000000000003 0 -37.5 162.5 10 37.5 #
+-4 integer_attrib-name_attrib-gen-attrib $-1 -1 $13 $-1 $1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_GROUP_TYPE 5 #
+-5 collection $14 -1 0 0 0 0 0 0 0 1 1 0 1 1 #
+-6 collection $15 -1 0 0 0 0 0 0 0 1 1 0 1 1 #
+-7 collection $16 -1 0 0 0 0 0 0 0 1 1 0 1 1 #
+-8 collection $17 -1 0 0 0 0 0 0 0 1 1 0 1 1 #
+-9 collection $18 -1 0 0 0 0 0 0 0 1 1 0 1 1 #
+-10 string_attrib-name_attrib-gen-attrib $-1 -1 $19 $2 $0 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @9 substrate #
+-11 string_attrib-name_attrib-gen-attrib $-1 -1 $20 $-1 $3 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @2 63 #
+-12 shell $-1 -1 -1 $-1 $-1 $-1 $21 $-1 $3 T -162.50000000000003 0 -37.5 162.5 10 37.5 #
+-13 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $4 $1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @9 substrate #
+-14 group_ptr-ct-attrib $-1 -1 $22 $-1 $5 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 $1 #
+-15 group_ptr-ct-attrib $-1 -1 $23 $-1 $6 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 $1 #
+-16 group_ptr-ct-attrib $-1 -1 $24 $-1 $7 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 $1 #
+-17 group_ptr-ct-attrib $-1 -1 $25 $-1 $8 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 $1 #
+-18 group_ptr-ct-attrib $-1 -1 $26 $-1 $9 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 $1 #
+-19 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $10 $0 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @13 Boss-Extrude1 #
+-20 string_attrib-name_attrib-gen-attrib $-1 -1 $27 $11 $3 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @9 substrate #
+-21 face $28 -1 -1 $-1 $29 $30 $12 $-1 $31 reversed single T 162.49999999999997 0 -37.5 162.5 10 37.5 F #
+-22 integer_attrib-name_attrib-gen-attrib $-1 -1 $32 $14 $5 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 SPAATTRIB_VALUETYPE 1 #
+-23 integer_attrib-name_attrib-gen-attrib $-1 -1 $33 $15 $6 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 SPAATTRIB_VALUETYPE 1 #
+-24 integer_attrib-name_attrib-gen-attrib $-1 -1 $34 $16 $7 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 SPAATTRIB_VALUETYPE 1 #
+-25 integer_attrib-name_attrib-gen-attrib $-1 -1 $35 $17 $8 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 SPAATTRIB_VALUETYPE 1 #
+-26 integer_attrib-name_attrib-gen-attrib $-1 -1 $36 $18 $9 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 SPAATTRIB_VALUETYPE 1 #
+-27 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $20 $3 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @13 Boss-Extrude1 #
+-28 string_attrib-name_attrib-gen-attrib $-1 -1 $37 $-1 $21 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @2 33 #
+-29 face $38 -1 -1 $-1 $39 $40 $12 $-1 $41 reversed single T -162.50000000000003 0 -37.5 162.49999999999997 10 -37.5 F #
+-30 loop $42 -1 -1 $-1 $-1 $43 $21 T 162.49999999999997 0 -37.5 162.5 10 37.5 periphery $31 T #
+-31 plane-surface $-1 -1 -1 $-1 162.49999999999997 10 -37.5 -1 0 3.7007434154171886e-16 0 1 0 forward_v I I I I #
+-32 string_attrib-name_attrib-gen-attrib $-1 -1 $44 $22 $5 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 SPAATTRIB_VALUE @7 UNKNOWN #
+-33 string_attrib-name_attrib-gen-attrib $-1 -1 $45 $23 $6 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 SPAATTRIB_VALUE @3 ANY #
+-34 string_attrib-name_attrib-gen-attrib $-1 -1 $46 $24 $7 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 SPAATTRIB_VALUE @9 NOT_KNOWN #
+-35 string_attrib-name_attrib-gen-attrib $-1 -1 $47 $25 $8 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 SPAATTRIB_VALUE @9 substrate #
+-36 string_attrib-name_attrib-gen-attrib $-1 -1 $48 $26 $9 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 SPAATTRIB_VALUE @9 substrate #
+-37 string_attrib-name_attrib-gen-attrib $-1 -1 $49 $28 $21 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @4 NONE #
+-38 string_attrib-name_attrib-gen-attrib $-1 -1 $50 $-1 $29 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @2 28 #
+-39 face $51 -1 -1 $-1 $52 $53 $12 $-1 $54 reversed single T -162.50000000000003 0 -37.5 -162.50000000000003 10 37.5 F #
+-40 loop $55 -1 -1 $-1 $-1 $56 $29 T -162.50000000000003 0 -37.5 162.49999999999997 10 -37.5 periphery $41 T #
+-41 plane-surface $-1 -1 -1 $-1 -162.50000000000003 10 -37.5 0 0 1 1 -0 0 forward_v I I I I #
+-42 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $30 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @2 -1 #
+-43 coedge $-1 -1 -1 $-1 $57 $58 $59 $60 forward $30 $-1 #
+-44 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $32 $5 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @10 Definition #
+-45 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $33 $6 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @8 Revision #
+-46 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $34 $7 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @6 Source #
+-47 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $35 $8 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @11 Part Number #
+-48 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $36 $9 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @12 Nomenclature #
+-49 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $37 $21 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @4 NONE #
+-50 string_attrib-name_attrib-gen-attrib $-1 -1 $61 $38 $29 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @4 NONE #
+-51 string_attrib-name_attrib-gen-attrib $-1 -1 $62 $-1 $39 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 176 #
+-52 face $63 -1 -1 $-1 $64 $65 $12 $-1 $66 reversed single T -162.50000000000003 0 37.5 162.5 10 37.5 F #
+-53 loop $67 -1 -1 $-1 $-1 $68 $39 T -162.50000000000003 0 -37.5 -162.50000000000003 10 37.5 periphery $54 T #
+-54 plane-surface $-1 -1 -1 $-1 -162.50000000000003 10 -37.5 1 0 0 0 1 -0 forward_v I I I I #
+-55 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $40 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @2 -1 #
+-56 coedge $-1 -1 -1 $-1 $69 $70 $71 $72 forward $40 $-1 #
+-57 coedge $-1 -1 -1 $-1 $73 $43 $70 $74 reversed $30 $-1 #
+-58 coedge $-1 -1 -1 $-1 $43 $73 $75 $76 forward $30 $-1 #
+-59 coedge $-1 -1 -1 $-1 $77 $71 $43 $60 reversed $78 $-1 #
+-60 edge $79 -1 -1 $-1 $80 -0.074999999999999997 $81 0 $43 $82 forward @7 unknown T 162.49999999999997 0 -37.5 162.5 0 37.5 #
+-61 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $50 $29 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @4 NONE #
+-62 string_attrib-name_attrib-gen-attrib $-1 -1 $83 $51 $39 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @4 NONE #
+-63 string_attrib-name_attrib-gen-attrib $-1 -1 $84 $-1 $52 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 195 #
+-64 face $85 -1 -1 $-1 $86 $87 $12 $-1 $88 forward single T -162.50000000000003 10 -37.5 162.5 10 37.5 F #
+-65 loop $89 -1 -1 $-1 $-1 $90 $52 T -162.50000000000003 0 37.5 162.5 10 37.5 periphery $66 T #
+-66 plane-surface $-1 -1 -1 $-1 -162.50000000000003 10 37.5 0 0 -1 0 -1 -0 forward_v I I I I #
+-67 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $53 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @2 -1 #
+-68 coedge $-1 -1 -1 $-1 $91 $92 $93 $94 forward $53 $-1 #
+-69 coedge $-1 -1 -1 $-1 $95 $56 $92 $96 reversed $40 $-1 #
+-70 coedge $-1 -1 -1 $-1 $56 $95 $57 $74 forward $40 $-1 #
+-71 coedge $-1 -1 -1 $-1 $59 $93 $56 $72 reversed $78 $-1 #
+-72 edge $97 -1 -1 $-1 $81 -0.32500000000000001 $98 0 $56 $99 forward @7 unknown T -162.50000000000003 0 -37.5 162.49999999999997 0 -37.5 #
+-73 coedge $-1 -1 -1 $-1 $58 $57 $100 $101 reversed $30 $-1 #
+-74 edge $102 -1 -1 $-1 $103 0 $81 0.01 $57 $104 forward @7 unknown T 162.49999999999997 0 -37.5 162.49999999999997 10 -37.5 #
+-75 coedge $-1 -1 -1 $-1 $105 $90 $58 $76 reversed $65 $-1 #
+-76 edge $106 -1 -1 $-1 $107 0 $80 0.01 $58 $108 forward @7 unknown T 162.5 0 37.5 162.5 10 37.5 #
+-77 coedge $-1 -1 -1 $-1 $93 $59 $90 $109 reversed $78 $-1 #
+-78 loop $110 -1 -1 $-1 $-1 $59 $86 T -162.50000000000003 0 -37.5 162.5 0 37.5 periphery $111 T #
+-79 string_attrib-name_attrib-gen-attrib $-1 -1 $112 $-1 $60 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @2 52 #
+-80 vertex $113 -1 -1 $-1 $76 $114 #
+-81 vertex $115 -1 -1 $-1 $60 $116 #
+-82 straight-curve $-1 -1 -1 $-1 162.49999999999997 0 -37.5 -3.7007434154171886e-13 -0 -1000 F -0.074999999999999997 F 0 #
+-83 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $62 $39 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @4 NONE #
+-84 string_attrib-name_attrib-gen-attrib $-1 -1 $117 $63 $52 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @4 NONE #
+-85 string_attrib-name_attrib-gen-attrib $-1 -1 $118 $-1 $64 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 121 #
+-86 face $119 -1 -1 $-1 $-1 $78 $12 $-1 $111 reversed single T -162.50000000000003 0 -37.5 162.5 0 37.5 F #
+-87 loop $120 -1 -1 $-1 $-1 $100 $64 T -162.50000000000003 10 -37.5 162.5 10 37.5 periphery $88 F #
+-88 plane-surface $-1 -1 -1 $-1 0 10 0 0 1 0 1 0 -0 forward_v I I I I #
+-89 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $65 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @2 -1 #
+-90 coedge $-1 -1 -1 $-1 $75 $121 $77 $109 forward $65 $-1 #
+-91 coedge $-1 -1 -1 $-1 $122 $68 $121 $123 reversed $53 $-1 #
+-92 coedge $-1 -1 -1 $-1 $68 $122 $69 $96 forward $53 $-1 #
+-93 coedge $-1 -1 -1 $-1 $71 $77 $68 $94 reversed $78 $-1 #
+-94 edge $124 -1 -1 $-1 $98 0 $125 0.074999999999999997 $68 $126 forward @7 unknown T -162.50000000000003 0 -37.5 -162.50000000000003 0 37.5 #
+-95 coedge $-1 -1 -1 $-1 $70 $69 $127 $128 reversed $40 $-1 #
+-96 edge $129 -1 -1 $-1 $130 0 $98 0.01 $69 $131 forward @7 unknown T -162.50000000000003 0 -37.5 -162.50000000000003 10 -37.5 #
+-97 string_attrib-name_attrib-gen-attrib $-1 -1 $132 $-1 $72 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 186 #
+-98 vertex $133 -1 -1 $-1 $96 $134 #
+-99 straight-curve $-1 -1 -1 $-1 -162.50000000000003 0 -37.5 -1000 -0 -0 F -0.32500000000000001 F 0 #
+-100 coedge $-1 -1 -1 $-1 $127 $135 $73 $101 forward $87 $-1 #
+-101 edge $136 -1 -1 $-1 $107 -0.074999999999999997 $103 0 $73 $137 forward @7 unknown T 162.49999999999997 10 -37.5 162.5 10 37.5 #
+-102 string_attrib-name_attrib-gen-attrib $-1 -1 $138 $-1 $74 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 103 #
+-103 vertex $139 -1 -1 $-1 $74 $140 #
+-104 straight-curve $-1 -1 -1 $-1 162.49999999999997 10 -37.5 -0 -1000 -0 F 0 F 0.01 #
+-105 coedge $-1 -1 -1 $-1 $121 $75 $135 $141 reversed $65 $-1 #
+-106 string_attrib-name_attrib-gen-attrib $-1 -1 $142 $-1 $76 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @2 16 #
+-107 vertex $143 -1 -1 $-1 $76 $144 #
+-108 straight-curve $-1 -1 -1 $-1 162.5 10 37.5 -0 -1000 -0 F 0 F 0.01 #
+-109 edge $145 -1 -1 $-1 $125 0 $80 0.32500000000000001 $90 $146 forward @7 unknown T -162.50000000000003 0 37.5 162.5 0 37.5 #
+-110 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $78 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @2 -1 #
+-111 plane-surface $-1 -1 -1 $-1 0 0 0 0 1 0 1 0 -0 forward_v I I I I #
+-112 string_attrib-name_attrib-gen-attrib $-1 -1 $147 $79 $60 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @4 NONE #
+-113 string_attrib-name_attrib-gen-attrib $-1 -1 $148 $-1 $80 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @1 6 #
+-114 point $-1 -1 -1 $-1 162.5 0 37.5 #
+-115 string_attrib-name_attrib-gen-attrib $-1 -1 $149 $-1 $81 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @2 62 #
+-116 point $-1 -1 -1 $-1 162.49999999999997 0 -37.5 #
+-117 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $84 $52 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @4 NONE #
+-118 string_attrib-name_attrib-gen-attrib $-1 -1 $150 $85 $64 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @4 NONE #
+-119 string_attrib-name_attrib-gen-attrib $-1 -1 $151 $-1 $86 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @2 93 #
+-120 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $87 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @2 -1 #
+-121 coedge $-1 -1 -1 $-1 $90 $105 $91 $123 forward $65 $-1 #
+-122 coedge $-1 -1 -1 $-1 $92 $91 $152 $153 reversed $53 $-1 #
+-123 edge $154 -1 -1 $-1 $155 0 $125 0.01 $91 $156 forward @7 unknown T -162.50000000000003 0 37.5 -162.50000000000003 10 37.5 #
+-124 string_attrib-name_attrib-gen-attrib $-1 -1 $157 $-1 $94 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 211 #
+-125 vertex $158 -1 -1 $-1 $123 $159 #
+-126 straight-curve $-1 -1 -1 $-1 -162.50000000000003 0 -37.5 0 0 1000 F 0 F 0.074999999999999997 #
+-127 coedge $-1 -1 -1 $-1 $152 $100 $95 $128 forward $87 $-1 #
+-128 edge $160 -1 -1 $-1 $103 -0.32500000000000001 $130 0 $95 $161 forward @7 unknown T -162.50000000000003 10 -37.5 162.49999999999997 10 -37.5 #
+-129 string_attrib-name_attrib-gen-attrib $-1 -1 $162 $-1 $96 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @2 42 #
+-130 vertex $163 -1 -1 $-1 $96 $164 #
+-131 straight-curve $-1 -1 -1 $-1 -162.50000000000003 10 -37.5 -0 -1000 -0 F 0 F 0.01 #
+-132 string_attrib-name_attrib-gen-attrib $-1 -1 $165 $97 $72 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @4 NONE #
+-133 string_attrib-name_attrib-gen-attrib $-1 -1 $166 $-1 $98 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 196 #
+-134 point $-1 -1 -1 $-1 -162.50000000000003 0 -37.5 #
+-135 coedge $-1 -1 -1 $-1 $100 $152 $105 $141 forward $87 $-1 #
+-136 string_attrib-name_attrib-gen-attrib $-1 -1 $167 $-1 $101 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 230 #
+-137 straight-curve $-1 -1 -1 $-1 162.49999999999997 10 -37.5 -3.7007434154171886e-13 -0 -1000 F -0.074999999999999997 F 0 #
+-138 string_attrib-name_attrib-gen-attrib $-1 -1 $168 $102 $74 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @4 NONE #
+-139 string_attrib-name_attrib-gen-attrib $-1 -1 $169 $-1 $103 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @2 97 #
+-140 point $-1 -1 -1 $-1 162.49999999999997 10 -37.5 #
+-141 edge $170 -1 -1 $-1 $155 0 $107 0.32500000000000001 $105 $171 forward @7 unknown T -162.50000000000003 10 37.5 162.5 10 37.5 #
+-142 string_attrib-name_attrib-gen-attrib $-1 -1 $172 $106 $76 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @4 NONE #
+-143 string_attrib-name_attrib-gen-attrib $-1 -1 $173 $-1 $107 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 166 #
+-144 point $-1 -1 -1 $-1 162.5 10 37.5 #
+-145 string_attrib-name_attrib-gen-attrib $-1 -1 $174 $-1 $109 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 131 #
+-146 straight-curve $-1 -1 -1 $-1 -162.50000000000003 0 37.5 1000 0 0 F 0 F 0.32500000000000001 #
+-147 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $112 $60 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @4 NONE #
+-148 string_attrib-name_attrib-gen-attrib $-1 -1 $175 $113 $80 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @4 NONE #
+-149 string_attrib-name_attrib-gen-attrib $-1 -1 $176 $115 $81 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @4 NONE #
+-150 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $118 $64 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @4 NONE #
+-151 string_attrib-name_attrib-gen-attrib $-1 -1 $177 $119 $86 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @4 NONE #
+-152 coedge $-1 -1 -1 $-1 $135 $127 $122 $153 forward $87 $-1 #
+-153 edge $178 -1 -1 $-1 $130 0 $155 0.074999999999999997 $122 $179 forward @7 unknown T -162.50000000000003 10 -37.5 -162.50000000000003 10 37.5 #
+-154 string_attrib-name_attrib-gen-attrib $-1 -1 $180 $-1 $123 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @2 77 #
+-155 vertex $181 -1 -1 $-1 $123 $182 #
+-156 straight-curve $-1 -1 -1 $-1 -162.50000000000003 10 37.5 -0 -1000 -0 F 0 F 0.01 #
+-157 string_attrib-name_attrib-gen-attrib $-1 -1 $183 $124 $94 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @4 NONE #
+-158 string_attrib-name_attrib-gen-attrib $-1 -1 $184 $-1 $125 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 124 #
+-159 point $-1 -1 -1 $-1 -162.50000000000003 0 37.5 #
+-160 string_attrib-name_attrib-gen-attrib $-1 -1 $185 $-1 $128 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 180 #
+-161 straight-curve $-1 -1 -1 $-1 -162.50000000000003 10 -37.5 -1000 -0 -0 F -0.32500000000000001 F 0 #
+-162 string_attrib-name_attrib-gen-attrib $-1 -1 $186 $129 $96 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @4 NONE #
+-163 string_attrib-name_attrib-gen-attrib $-1 -1 $187 $-1 $130 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @2 91 #
+-164 point $-1 -1 -1 $-1 -162.50000000000003 10 -37.5 #
+-165 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $132 $72 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @4 NONE #
+-166 string_attrib-name_attrib-gen-attrib $-1 -1 $188 $133 $98 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @4 NONE #
+-167 string_attrib-name_attrib-gen-attrib $-1 -1 $189 $136 $101 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @4 NONE #
+-168 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $138 $74 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @4 NONE #
+-169 string_attrib-name_attrib-gen-attrib $-1 -1 $190 $139 $103 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @4 NONE #
+-170 string_attrib-name_attrib-gen-attrib $-1 -1 $191 $-1 $141 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 171 #
+-171 straight-curve $-1 -1 -1 $-1 -162.50000000000003 10 37.5 1000 0 0 F 0 F 0.32500000000000001 #
+-172 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $142 $76 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @4 NONE #
+-173 string_attrib-name_attrib-gen-attrib $-1 -1 $192 $143 $107 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @4 NONE #
+-174 string_attrib-name_attrib-gen-attrib $-1 -1 $193 $145 $109 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @4 NONE #
+-175 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $148 $80 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @4 NONE #
+-176 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $149 $81 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @4 NONE #
+-177 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $151 $86 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @4 NONE #
+-178 string_attrib-name_attrib-gen-attrib $-1 -1 $194 $-1 $153 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @2 88 #
+-179 straight-curve $-1 -1 -1 $-1 -162.50000000000003 10 -37.5 0 0 1000 F 0 F 0.074999999999999997 #
+-180 string_attrib-name_attrib-gen-attrib $-1 -1 $195 $154 $123 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @4 NONE #
+-181 string_attrib-name_attrib-gen-attrib $-1 -1 $196 $-1 $155 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @3 177 #
+-182 point $-1 -1 -1 $-1 -162.50000000000003 10 37.5 #
+-183 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $157 $94 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @4 NONE #
+-184 string_attrib-name_attrib-gen-attrib $-1 -1 $197 $158 $125 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @4 NONE #
+-185 string_attrib-name_attrib-gen-attrib $-1 -1 $198 $160 $128 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @4 NONE #
+-186 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $162 $96 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @4 NONE #
+-187 string_attrib-name_attrib-gen-attrib $-1 -1 $199 $163 $130 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @4 NONE #
+-188 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $166 $98 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @4 NONE #
+-189 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $167 $101 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @4 NONE #
+-190 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $169 $103 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @4 NONE #
+-191 string_attrib-name_attrib-gen-attrib $-1 -1 $200 $170 $141 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @4 NONE #
+-192 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $173 $107 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @4 NONE #
+-193 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $174 $109 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @4 NONE #
+-194 string_attrib-name_attrib-gen-attrib $-1 -1 $201 $178 $153 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @4 NONE #
+-195 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $180 $123 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @4 NONE #
+-196 string_attrib-name_attrib-gen-attrib $-1 -1 $202 $181 $155 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XSTEP_PRODUCT_ID @4 NONE #
+-197 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $184 $125 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @4 NONE #
+-198 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $185 $128 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @4 NONE #
+-199 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $187 $130 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @4 NONE #
+-200 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $191 $141 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @4 NONE #
+-201 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $194 $153 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @4 NONE #
+-202 string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $196 $155 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_NAME @4 NONE #
+End-of-ACIS-data 
